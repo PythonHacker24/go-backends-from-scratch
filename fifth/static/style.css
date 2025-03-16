@@ -1,0 +1,13 @@
+/* static/style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+h1 {
+    color: #007acc;
+}
+img {
+    width: 150px;
+    margin-top: 20px;
+}
